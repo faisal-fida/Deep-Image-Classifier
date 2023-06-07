@@ -6,28 +6,4 @@ This repository contains a Python code implementation for a deep learning model 
 
 The dataset should be organized in the following structure:
 
-image/
-train/
-class1/
-image1.jpg
-image2.jpg
-...
-class2/
-image1.jpg
-image2.jpg
-...
-...
-test/
-class1/
-image1.jpg
-image2.jpg
-...
-class2/
-image1.jpg
-image2.jpg
-...
-...
-prediction/
-image1.jpg
-image2.jpg
-...
+(image-classification-dataset)[https://www.kaggle.com/datasets/puneet6060/intel-image-classification]
